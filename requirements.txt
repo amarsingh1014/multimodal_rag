@@ -1,0 +1,13 @@
+streamlit
+PyMuPDF
+langchain-core
+transformers
+Pillow
+torch
+numpy
+langchain-google-genai
+scikit-learn
+langchain-community
+faiss-cpu
+python-dotenv
+langchain
