@@ -87,7 +87,3 @@ Try asking questions like:
 1. **API Key Issues**: Make sure your Google API key is valid and has access to Gemini
 2. **Memory Issues**: For large PDFs, try reducing chunk size or processing smaller files
 3. **Model Loading**: CLIP models are downloaded on first use and cached locally
-
-## License
-
-This project is open source and available under the MIT License.
