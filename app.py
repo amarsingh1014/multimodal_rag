@@ -10,7 +10,7 @@ from langchain_core.messages import HumanMessage
 import os
 import base64
 import io
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 import tempfile
 import time
