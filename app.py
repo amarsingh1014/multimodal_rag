@@ -6,7 +6,7 @@ from PIL import Image
 import torch
 import numpy as np
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.schema.messages import HumanMessage
+from langchain_core.messages import HumanMessage
 import os
 import base64
 import io

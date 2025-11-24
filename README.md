@@ -14,8 +14,8 @@ A powerful Streamlit application that allows you to chat with PDF documents usin
 
 1. **Clone the repository**:
 ```bash
-git clone <your-repo-url>
-cd Multimodal_RAG
+git clone https://github.com/amarsingh1014/multimodal_rag.git
+cd multimodal_rag
 ```
 
 2. **Install the required dependencies**:
