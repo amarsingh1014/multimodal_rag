@@ -279,7 +279,7 @@ def create_multimodal_message(query, retrieved_docs, image_data_store):
     # Add instruction
     content.append({
         "type": "text",
-        "text": "\n\nPlease answer the question based on the provided text and images."
+        "text": "\n\nPlease answer the question based on the provided text and images. If the images contain charts, diagrams, or photos, please describe them in your answer."
     })
     
     return HumanMessage(content=content)
